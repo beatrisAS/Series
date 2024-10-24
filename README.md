@@ -1,7 +1,3 @@
-Aqui está o exemplo de um `README.md` para o projeto do site "Mundo das Séries", explicando sua estrutura e objetivo:
-
----
-
 # Mundo das Séries
 
 ## Descrição do Projeto
